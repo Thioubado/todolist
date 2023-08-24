@@ -70,5 +70,27 @@
     "Whoops!": "Oups !",
     "You are receiving this email because we received a password reset request for your account.": "Vous recevez cet e-mail car nous avons reçu une demande de réinitialisation de mot de passe pour votre compte.",
     "You're logged in!": "Vous êtes connecté·e !",
-    "Your email address is unverified.": "Votre adresse e-mail n'est pas vérifiée."
+    "Your email address is unverified.": "Votre adresse e-mail n'est pas vérifiée.",
+    
+
+        "Create a task": "Créer une tâche",
+        "Title": "Titre",
+        "Detail": "Détail",
+        "Send": "Envoyer",
+
+        "Task done": "Tâche accomplie",
+
+    
+    "Show a task": "Voir une tâche",
+    "State": "Etat",
+    "Date creation": "Date de création",
+    "Last update": "Dernière modification",
+
+    "Done": "Effectuée",
+    "Tasks List": "Liste des tâches",
+    "To do": "A faire",
+    "Show": "Voir",
+    "Edit": "Editer"
+    
+    
 }
